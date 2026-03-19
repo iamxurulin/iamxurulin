@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+- I’m currently learning AI Agent Code.
+- Blog: [Coder_Studio](https://iamxurulin.github.io/)
+
+
+---
+
+### iamxurulin's GitHub Stats
+![iamxurulin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamxurulin&show_icons=true&rank_icon=percentile&bg_color=fff9f0&title_color=1976d2&text_color=333333&icon_color=1976d2)
+
+---
+
+### Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxurulin&layout=compact&bg_color=fff9f0&title_color=1976d2&text_color=333333)
