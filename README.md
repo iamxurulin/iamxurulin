@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
-- I’m currently learning AI Agent Code.
+- I’m currently learning AI Code.
 - Blog: [Coder_Studio](https://iamxurulin.github.io/)
 
 
