@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **iamxurulin/iamxurulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently learning AI Code.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+- 📚 I’m currently learning AI Code.
 - Blog: [Coder_Studio](https://iamxurulin.github.io/)
+
+
+###
 
 
 ---
 
-### iamxurulin's GitHub Stats
+<h3 align="left">🔥   My Stats :</h3>
+
 ![iamxurulin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamxurulin&show_icons=true&rank_icon=percentile&bg_color=fff9f0&title_color=1976d2&text_color=333333&icon_color=1976d2)
 
 ---
