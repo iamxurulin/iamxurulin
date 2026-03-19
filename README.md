@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-- 📚 I’m currently learning AI Code.
-- Blog: [Coder_Studio](https://iamxurulin.github.io/)
+- 🌐: [个人技术博客](https://iamxurulin.github.io/)
 
 
 ###
