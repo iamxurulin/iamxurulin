@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![iamxurulin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamxurulin&show_icons=true&rank_icon=percentile&bg_color=fff9f0&title_color=1976d2&text_color=333333&icon_color=1976d2)
+![iamxurulin's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=iamxurulin&show_icons=true&rank_icon=percentile&bg_color=fff9f0&title_color=1976d2&text_color=333333&icon_color=1976d2](https://github-readme-streak-stats.herokuapp.com/?user=iamxurulin&bg_color=fff9f0&title_color=1976d2&text_color=333333&icon_color=1976d2))
 
 ---
 
