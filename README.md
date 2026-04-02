@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ---
 
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxurulin&layout=compact&bg_color=fff9f0&title_color=1976d2&text_color=333333)
+### Top Languages
+![Top Langs](https://stats.programcx.cn/api/top-langs/?username=iamxurulin&layout=compact&bg_color=fff9f0&title_color=1976d2&text_color=333333)
