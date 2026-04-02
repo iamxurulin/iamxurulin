@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ---
 
-### Top Languages
-![Top Langs](https://stats.programcx.cn/api/top-langs/?username=iamxurulin&layout=compact&bg_color=fff9f0&title_color=1976d2&text_color=333333)
+### Most Used Languages
+![Most Used Langs](https://stats.programcx.cn/api/top-langs/?username=iamxurulin&layout=compact&bg_color=fff9f0&title_color=1976d2&text_color=333333)
